@@ -10,7 +10,9 @@ Una simple aplicación de Android desarrollada en Kotlin utilizando Jetpack Comp
 
 ## Capturas de Pantalla
 
-![Pantalla Principal](assets/Interfaz.png)
+![Ejemplo Error](assets/Interfaz.png)
+
+![Ejemplo Suma](assets/Suma.png)
 
 ## Requisitos
 
